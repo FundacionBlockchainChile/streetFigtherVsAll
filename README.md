@@ -1,4 +1,5 @@
 # streetFigtherVsAll
 CSS exercise with plain JS inspired in Street Figther game
 
-https://www.streetfigther-vs-all.netlify.app
+Visit the Game Prototype here:
+https://streetfigther-vs-all.netlify.app/
